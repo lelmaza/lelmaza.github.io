@@ -28,7 +28,7 @@ author_profile: true
 * Optimized Chemical Engineering curriculum by consulting on a Size Exclusion Chromatography (SEC) module for the Unit Operation Laboratory.
 * Validated an HPLC-based method to quantify *in vitro* enzyme activity using FRET peptides, significantly improving characterization accuracy.
 
-**Police Accessories S.A.** │ Mexico City, Mexico
-*Process Ingeneering Intern* │ **May 2021 - August 2021**
+**Police Accesories S.A.** | Mexico City, MX  
+*Process Engineering Intern* | **May – August 2021**
 
 * Led assembly and quality control teams to improve production from below 50% to 100% within a week, completing 20 storage trucks for a key account
