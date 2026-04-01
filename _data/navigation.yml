@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Publications"
     url: https://lelmaza.github.io/Publications/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Education & Experience"
+    url: https://lelmaza.github.io/Experience/
+  - title: "Awards"
+    url: /collection-archive/
+  - title: "Leadership & Volunteering"
+    url: /sitemap/
