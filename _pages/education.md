@@ -29,6 +29,6 @@ author_profile: true
 * Validated an HPLC-based method to quantify *in vitro* enzyme activity using FRET peptides, significantly improving characterization accuracy.
 
 **Police Accessories S.A.** │ Mexico City, Mexico
-*Process Ingenieering Intern* │ May 2021 - August 2021
+*Process Ingeneering Intern* │ May 2021 - August 2021
 
 * Led assembly and quality control teams to improve production from below 50% to 100% within a week, completing 20 storage trucks for a key account
