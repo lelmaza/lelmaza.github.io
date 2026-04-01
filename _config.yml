@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Luis Eduardo Lopez de la Maza"
   avatar           : "/assets/images/bio_pic.png" # path of avatar image, e.g. 
-  
+  picture_shape    : "circle"
   bio              : "Passionate, creative, committed, **believer**."
   location         : "Gainesville, Florida"
   email            : "mazacujae@gmail.com"
