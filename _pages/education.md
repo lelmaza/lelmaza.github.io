@@ -5,8 +5,8 @@ permalink: /education/
 author_profile: true
 ---
 EDUCATION
-PhD in Chemical Engineering                                                                                        May 2027
-University of Florida│ Gainesville, Florida, US                                                                                    GPA:3.88
+**University of Florida**│ Gainesville, Florida, US
+PhD in Chemical Engineering May 2027 GPA:3.88
 Master of Science: Chemical Engineering                                                                       June 2021
 Iberoamerican University│ Mexico City, Mexico                                                                             GPA:3.90
 Bachelor of Engineering: Chemical Engineering                                                               July 2017
