@@ -1,14 +1,15 @@
 # main links
 main:
-  - title: "Publications"
-    url: https:/publications/
+
   - title: "Education & Experience"
     url: https:/education/
-  - title: "Awards"
-    url: /awards/
   - title: "Leadership & Volunteering"
     url: /leadership/
+  - title: "Publications"
+    url: https:/publications/
   - title: "Hobbies"
     url: /hobbies/
+  - title: "Awards"
+    url: /awards/
   - title: "Gallery"
     url: /gallery/
