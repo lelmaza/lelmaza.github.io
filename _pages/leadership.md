@@ -8,15 +8,15 @@ author_profile: true
 
 **New Song Mission**, Non-profit organization, Gainesville, FL
 
-Co-Founder, Board of Directors, Secretary                                                    March 2026-Present
+Co-Founder, Board of Directors, Secretary                                                    [March 2026-Present]
 
 **Wertheim Engineers’ Biotechnology Organization**, University of Florida, Gainesville, FL
 
-Treasurer                                                                                                      June 2024-June 2025
+Treasurer                                                                                                      [June 2024-June 2025]
 
 **Department of Chemical Engineering**, Iberoamerican University, Mexico
 
-Academic Committee Student Representative                                  October 2019-October 2021
+Academic Committee Student Representative                                  [October 2019-October 2021]
        
 
 
