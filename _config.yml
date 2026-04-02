@@ -119,7 +119,7 @@ author:
   name             : "Luis Eduardo Lopez de la Maza"
   avatar           : "/assets/images/bio_pic_1.png" # path of avatar image, e.g. 
   picture_shape    : "circle"
-  bio              : "**PhD Candidate**, Department of Chemical Engineering, University of Florida."
+  bio              : "**PhD Candidate**, Department of Chemical Engineering, University of Florida. Purpose driven and focused on people. My most recent experience is in protein engineering and synthetic biology. Past experiences include Oil & Gas Industry, alcoholic fermentation, and process engineering."
   location         : "Gainesville, Florida"
   email            : "mazacujae@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
