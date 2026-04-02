@@ -4,6 +4,7 @@ layout: single
 permalink: /education/
 author_profile: true
 ---
+
 ### Education
 
 **University of Florida** | Gainesville, FL  
