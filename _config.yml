@@ -17,6 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua",  "dark", "dirt", "neon", 
 # Site Settings
 locale                   : "en-US"
 main_links               : main   # ------>I inserted this line Luis Lopez
+future                   : true
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Get to know Luis!"
 title_separator          : "-"
