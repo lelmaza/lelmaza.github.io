@@ -3,3 +3,10 @@
   justify-content: center;
   margin-bottom: 10px;
 }
+.masthead__inner, .initial-content, .search-content, .footer__inner {
+  @media (min-width: 80em) {
+    max-width: 100%; /* Change from 1280px to 100% or a higher pixel value */
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
