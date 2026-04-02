@@ -1,0 +1,7 @@
+---
+layout: home
+author_profile: true
+---
+Welcome. This is where I share updates about my professional and personal life.
+
+
