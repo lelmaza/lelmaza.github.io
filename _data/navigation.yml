@@ -13,3 +13,8 @@ main:
     url: /awards/
   - title: "Gallery"
     url: /gallery/
+
+- title: "Daily Inspiration"
+  text: |
+    <script src="https://www.biblegateway.com/usage/votd/js/votd.js"></script>
+    ```
