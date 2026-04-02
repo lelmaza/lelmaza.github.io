@@ -14,7 +14,10 @@ main:
   - title: "Gallery"
     url: /gallery/
 
-- title: "Daily Inspiration"
-  text: |
-    <script src="https://www.biblegateway.com/usage/votd/js/votd.js"></script>
-    ```
+bible_sidebar:
+  - title: "Daily Inspiration"
+    text: |
+      <div id="bg-votd-widget">
+        <script src="https://www.biblegateway.com/usage/votd/js/votd.js"></script>
+        <a href="https://www.biblegateway.com/" title="The Bible at BibleGateway.com">View the Bible at BibleGateway.com</a>
+      </div>
