@@ -338,4 +338,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: "" # This applies the change to your whole site
+    values:
+      layout: single
+      author_profile: true    # This is your LEFT sidebar (photo)
+      sidebar:
+        nav: "bible_sidebar" # This adds your RIGHT sidebar (Bible Verse)
 
